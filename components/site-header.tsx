@@ -73,7 +73,7 @@ export function SiteHeader() {
               X
             </a>
             <a 
-              href="https://bet-on-heaven.gitbook.io/betonheaven/" 
+              href="https://onebets.gitbook.io/home/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white/60 hover:text-white transition-colors duration-300 font-medium"
@@ -107,7 +107,7 @@ export function SiteHeader() {
               X
             </a>
             <a 
-              href="https://bet-on-heaven.gitbook.io/betonheaven/" 
+              href="https://onebets.gitbook.io/home/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white/60 hover:text-white transition-colors duration-300 font-medium py-2 px-4 rounded-lg hover:bg-white/5"
