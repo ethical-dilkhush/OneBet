@@ -16,7 +16,7 @@ export function ContractModal({ open, onOpenChange }: ContractModalProps) {
   const [copied, setCopied] = useState(false)
   
   // Placeholder contract address - will be updated when actual contract is deployed
-  const contractAddress = "Coming Soon"
+  const contractAddress = "BmzbG1tt17sHjSZ8qXfcSdndQYYUACmJKLM4iDRsBAGS"
 
   const copyToClipboard = async () => {
     try {
